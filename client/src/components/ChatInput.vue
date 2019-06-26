@@ -23,7 +23,7 @@ export default {
   name: 'chat-input',
   data () {
     return {
-      message: '',
+      message: ''
       // isLongMessage: false
     }
   },

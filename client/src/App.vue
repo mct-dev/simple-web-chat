@@ -22,6 +22,11 @@ export default {
       webSocket: null,
       newMsg: '', // a new message for the server
       chatMessages: '', // list of chat messages to display
+
+      // for when we have a login system
+      email: null,
+      username: null,
+      joined: false
     }
   }
 }
